@@ -1,0 +1,149 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	background-color:#3C3939;
+}
+header{
+	font-size:75px;
+	color:white;
+}
+
+#mad{
+	width:600px;
+	margin:0 auto;
+}
+
+#container{
+width:600px;
+height:320px;
+position:relative;
+font-size:18px;
+background-color:white;
+margin:0 auto;
+}
+
+#red{
+	background-color:red;
+	position:relative;
+	color:white;
+}
+#onkunde{
+	position:absolute;
+	left:175px;
+	top:0px;
+	margin-top:0;
+}
+
+.text{
+	font-size:80px;
+	color:white;
+	margin:0 auto;
+}
+
+.paniek{
+	color:white;
+	padding:0;	
+}
+
+
+input{
+	width:190px;
+position:absolute;
+right:0px;
+}
+
+footer{
+	color:white;
+	text-align:center;
+	font-size:15px;
+	background-color:#4B4545;
+	width:600px;
+	height:30px;
+	position:absolute;
+	top:320px;
+	line-height:30px;
+}
+
+#submit{
+	width:100px;
+	position:absolute;
+	right:154px;
+	bottom:0px;
+}
+
+#vraag1{
+	position:absolute;
+	top:60px;
+}
+#vraag2{
+	position:absolute;
+	top:90px;
+}
+#vraag3{
+	position:absolute;
+	top:120px;
+}
+#vraag4{
+	position:absolute;
+	top:150px;
+}
+#vraag5{
+	position:absolute;
+	top:180px;
+}
+#vraag6{
+	position:absolute;
+	top:210px;
+}
+#vraag7{
+	position:absolute;
+	top:240px;
+}
+
+#vraag8{
+	position:absolute;
+	top:270px;
+}
+
+input:nth-of-type(1){
+top:60px;
+}
+input:nth-of-type(2){
+top:90px;
+}
+input:nth-of-type(3){
+top:120px;
+}
+input:nth-of-type(4){
+top:150px;
+}
+input:nth-of-type(5){
+top:180px;
+}
+input:nth-of-type(6){
+top:210px;
+}
+input:nth-of-type(7){
+top:240px;
+}
+#input8{
+top:270px;
+}
+
+#finaltext{
+	font-size:30px;
+}
+#text>p{
+	margin-top:5px;
+}
+
+#nextPage{
+	position: absolute;
+	top: 0px;
+	right:0px;
+	color:white;
+	text-decoration:none;
+}
